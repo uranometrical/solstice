@@ -1,0 +1,7 @@
+CLASS MMMWMWMWMMMWMMMWMWWMWWWMM ImmutableIterator
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM internalIterator Ljava/util/Iterator;
+	METHOD <init> (LWMWMMMWMWWNNNNMMWWMMMWMWM;Ljava/util/Iterator;)V
+		ARG 1 unused
+		ARG 2 iterator
+	METHOD hasNext hasNext ()Z
+	METHOD remove remove ()V
