@@ -1,5 +1,6 @@
 CLASS WWMWMMWNNNNMMWMMWWWWMWWMM ConfigImplUtil
 	METHOD MWMMWMWNNNNWWWWMMWMMWWMWW renderStringUnquotedIfPossible (Ljava/lang/String;)Ljava/lang/String;
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM extractInitializerError (Ljava/lang/ExceptionInInitializerError;)LMWWMWWWWMWWMMMWMWWMMWMMMW;
 	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM equalsHandlingNull (Ljava/lang/Object;Ljava/lang/Object;)Z
 	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM renderJsonString (Ljava/lang/String;)Ljava/lang/String;
 	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM urlToFile (Ljava/net/URL;)Ljava/io/File;

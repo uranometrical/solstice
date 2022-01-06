@@ -1,0 +1,22 @@
+CLASS WMWWMMWWMWNNNNWMWMWWMWMMM com/typesafe/config/impl/ConfigDelayedMergeObject
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM stack Ljava/util/List;
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/util/List;)V
+		ARG 1 origin
+		ARG 2 stack
+	METHOD MMWWWMMWMMWWWMMWNNNNMWMWW realWithFallback (LWMMMWWMMMWWMWWWWWMMWMWWMM;)LWMWWMMWWMWNNNNWMWMWWMWMMM;
+		ARG 1 mergreable
+	METHOD MWMMWMMWNNNNMWMWNNNNWMWMM realRelativize (LMMWWWNNNNMWWNNNNWNNNNMMWM;)LWMWWMMWWMWNNNNWMWMWWMWMMM;
+		COMMENT Actually "relativize", blame synthetics.
+		ARG 1 prefix
+	METHOD MWMMWMMWNNNNMWMWNNNNWMWMM mergedWithObject (LWMMWWWWWWWWWMWWWWMWWWMWWW;)LWMWWMMWWMWNNNNWMWMWWMWMMM;
+		ARG 1 fallback
+	METHOD WMWNNNNMMMWWWMMMWWWMWWWMW notResolved ()LMWWMWWWWMWWMMMWMWWMMWMMMW;
+	METHOD containsKey containsKey (Ljava/lang/Object;)Z
+		ARG 1 key
+	METHOD containsValue containsValue (Ljava/lang/Object;)Z
+		ARG 1 value
+	METHOD entrySet entrySet ()Ljava/util/Set;
+	METHOD isEmpty isEmpty ()Z
+	METHOD keySet keySet ()Ljava/util/Set;
+	METHOD size size ()I
+	METHOD values values ()Ljava/util/Collection;

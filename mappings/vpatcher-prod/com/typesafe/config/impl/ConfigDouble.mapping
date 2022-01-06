@@ -1,0 +1,6 @@
+CLASS MMWWMMWWMMMWWMWWMWMWWWWWW com/typesafe/config/impl/ConfigDouble
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM value D
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;DLjava/lang/String;)V
+		ARG 1 origin
+		ARG 2 value
+		ARG 4 originalText
