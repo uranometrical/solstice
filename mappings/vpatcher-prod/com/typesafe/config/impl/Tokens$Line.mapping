@@ -1,0 +1,3 @@
+CLASS WWMMMWMMWWMMMWMMWWMMMWMWM com/typesafe/config/impl/Tokens$Line
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;)V
+		ARG 1 origin

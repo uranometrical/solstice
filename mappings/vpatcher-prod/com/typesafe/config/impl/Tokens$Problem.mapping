@@ -1,4 +1,4 @@
-CLASS WMWMMWNNNNMWWWMMMWMWMWWMW com/typesafe/config/imple/Tokens$problem
+CLASS WMWMMWNNNNMWWWMMMWMWMWWMW com/typesafe/config/impl/Tokens$Problem
 	FIELD MMWWWMMWMMWWWMMWNNNNMWMWW cause Ljava/lang/Throwable;
 	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM suggestQuotes Z
 	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW message Ljava/lang/String;
