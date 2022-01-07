@@ -1,0 +1,3 @@
+CLASS WWWWWMMMWWWWWWWMWWMMWMWWM com/typesafe/config/ConfigMemorySize
+	METHOD equals (Ljava/lang/Object;)Z
+		ARG 1 other

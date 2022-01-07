@@ -1,0 +1,5 @@
+CLASS MWWWWWMMWWMWMMWWWMMWWWWWW com/typesafe/config/impl/Parseable$ParseableString
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW input Ljava/lang/String;
+	METHOD <init> (Ljava/lang/String;LWMMWWMWMWWMWMMWWMWWMWWMMM;)V
+		ARG 1 input
+		ARG 2 options

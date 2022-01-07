@@ -1,0 +1,7 @@
+CLASS MMWMMMWWMMWMWMMWWMWWMWMMW com/typesafe/config/impl/Parseable$ParseableNotFound
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM message Ljava/lang/String;
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW what Ljava/lang/String;
+	METHOD <init> (Ljava/lang/String;Ljava/lang/String;LWMMWWMWMWWMWMMWWMWWMWWMMM;)V
+		ARG 1 what
+		ARG 2 message
+		ARG 3 options

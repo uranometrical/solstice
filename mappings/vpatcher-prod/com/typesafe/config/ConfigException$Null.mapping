@@ -1,0 +1,10 @@
+CLASS MWMWMWWWMMWWMWNNNNMWMMWWM com/typesafe/config/ConfigException$Null
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;Ljava/lang/String;)V
+		ARG 1 origin
+		ARG 2 path
+		ARG 3 expected
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+		ARG 1 origin
+		ARG 2 path
+		ARG 3 expected
+		ARG 4 cause

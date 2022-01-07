@@ -1,0 +1,5 @@
+CLASS WWWWNNNNWWWMWMMMWMMWWMWMM com/typesafe/config/impl/Parseable$ParseableFile
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW input Ljava/io/File;
+	METHOD <init> (Ljava/io/File;LWMMWWMWMWWMWMMWWMWWMWWMMM;)V
+		ARG 1 input
+		ARG 2 ptions

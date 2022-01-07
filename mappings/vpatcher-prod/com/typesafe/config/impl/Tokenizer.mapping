@@ -1,0 +1,7 @@
+CLASS WMWMWMWMMMWMWMWMWWMMWWWWW com/typesafe/config/impl/Tokenizer
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM tokenize (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/io/Reader;LWNNNNMWMWWMMWWWWWWMWWNNNN;)Ljava/util/Iterator;
+		ARG 0 origin
+		ARG 1 input
+		ARG 2 flavor
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM render (Ljava/util/Iterator;)Ljava/lang/String;
+		ARG 0 tokens

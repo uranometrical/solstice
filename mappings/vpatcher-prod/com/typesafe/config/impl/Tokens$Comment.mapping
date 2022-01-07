@@ -1,0 +1,5 @@
+CLASS MWNNNNMWWWWWWMMMWMWNNNNMM com/typesafe/config/impl/Tokens$Comment
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM text Ljava/lang/String;
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;)V
+		ARG 1 origin
+		ARG 2 text

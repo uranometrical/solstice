@@ -1,0 +1,7 @@
+CLASS WWWWMWWWNNNNMWWWWMWMWNNNN com/typesafe/config/impl/ConfigString
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM value Ljava/lang/String;
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;)V
+		ARG 1 origin
+		ARG 2 value
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM realUnwrapped ()Ljava/lang/String;
+		COMMENT Blam synthetics.

@@ -1,0 +1,15 @@
+CLASS WWMWWWMMMWMWWWWMWWWMMWMWW com/typesafe/config/ConfigException$WrongType
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;)V
+		ARG 1 origin
+		ARG 2 message
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+		ARG 1 origin
+		ARG 2 path
+		ARG 3 expected
+		ARG 4 actual
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+		ARG 1 origin
+		ARG 2 path
+		ARG 3 expected
+		ARG 4 actual
+		ARG 5 cause

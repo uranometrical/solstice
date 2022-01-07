@@ -1,0 +1,4 @@
+CLASS WWMWMMMWNNNNWMWMMWMWMWWWW com/typesafe/config/impl/AbstractConfigValue$NotPossibleToResolve
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM traceString Ljava/lang/String;
+	METHOD <init> (LWWNNNNWMMWMMWWWMWWMMMWWWW;)V
+		ARG 1 context

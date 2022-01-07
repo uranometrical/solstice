@@ -1,0 +1,4 @@
+CLASS WMMWMWNNNNWMWMWMWWWWWMWWM com/typesafe/config/impl/Parse
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;)V
+		ARG 1 origin
+		ARG 2 detail

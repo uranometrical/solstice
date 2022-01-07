@@ -1,0 +1,5 @@
+CLASS MMMWWWMMWMWMWMMWMWMWWWMMM com/typesafe/config/impl/Parseable$ParseableResources
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW resource Ljava/lang/String;
+	METHOD <init> (Ljava/lang/String;LWMMWWMWMWWMWMMWWMWWMWWMMM;)V
+		ARG 1 resource
+		ARG 2 options

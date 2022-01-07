@@ -1,0 +1,8 @@
+CLASS NNNNWWMMMWWWMWMMWWMMWWWWW com/typesafe/config/impl/Parseable$ParseableResourceURL
+	FIELD MMWWWMMWMMWWWMMWNNNNMWMWW resource Ljava/lang/String;
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM relativizer LMWMWMMWWWMWWWWWWWWMMMWMWM;
+	METHOD <init> (Ljava/net/URL;LWMMWWMWMWWMWMMWWMWWMWWMMM;Ljava/lang/String;LMWMWMMWWWMWWWWWWWWMMMWMWM;)V
+		ARG 1 input
+		ARG 2 options
+		ARG 3 resource
+		ARG 4 relativizer

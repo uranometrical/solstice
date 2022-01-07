@@ -1,0 +1,7 @@
+CLASS WMWMWMWWMWMWWWWWMWWMWMWWW com/typesafe/config/impl/Tokens$Substitution
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW value Ljava/util/List;
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM optional Z
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;ZLjava/util/List;)V
+		ARG 1 origin
+		ARG 2 optional
+		ARG 3 expression

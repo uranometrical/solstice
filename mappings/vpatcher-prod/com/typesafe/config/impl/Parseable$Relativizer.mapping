@@ -1,0 +1,3 @@
+CLASS MWMWMMWWWMWWWWWWWWMMMWMWM com/typesafe/config/impl/Parseable$Relativizer
+	METHOD MWMMWMWNNNNWWWWMMWMMWWMWW relativeTo (Ljava/lang/String;)LMWWWWWWWWWMMMWWWWMMWWMMMW;
+		ARG 1 string

@@ -1,0 +1,11 @@
+CLASS WMWMMWNNNNMWWWMMMWMWMWWMW com/typesafe/config/imple/Tokens$problem
+	FIELD MMWWWMMWMMWWWMMWNNNNMWMWW cause Ljava/lang/Throwable;
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM suggestQuotes Z
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW message Ljava/lang/String;
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM what Ljava/lang/String;
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;Ljava/lang/String;ZLjava/lang/Throwable;)V
+		ARG 1 origin
+		ARG 2 what
+		ARG 3 message
+		ARG 4 suggestQuotes
+		ARG 5 cause

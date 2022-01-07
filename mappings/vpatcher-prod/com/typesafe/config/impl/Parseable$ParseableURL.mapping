@@ -1,0 +1,8 @@
+CLASS WMWMWWWMMWMWWMMMWWWMWWMWM com/typesafe/config/impl/Parseable$ParseableURL
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM contentType Ljava/lang/String;
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW input Ljava/net/URL;
+	METHOD <init> (Ljava/net/URL;)V
+		ARG 1 input
+	METHOD <init> (Ljava/net/URL;LWMMWWMWMWWMWMMWWMWWMWWMMM;)V
+		ARG 1 input
+		ARG 2 options

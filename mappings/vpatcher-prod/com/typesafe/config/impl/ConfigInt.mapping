@@ -1,0 +1,6 @@
+CLASS MMWWMWMWWMWMWWMWWMWWMWWMM com/typesafe/config/impl/ConfigInt
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM value I
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;ILjava/lang/String;)V
+		ARG 1 origin
+		ARG 2 value
+		ARG 3 originalText
