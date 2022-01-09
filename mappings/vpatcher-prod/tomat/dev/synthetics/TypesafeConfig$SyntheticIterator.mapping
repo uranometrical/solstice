@@ -1,4 +1,4 @@
-CLASS MMMWMWMWMMMWMMMWMWWMWWWMM SyntheticIterator
+CLASS MMMWMWMWMMMWMMMWMWWMWWWMM tomat/dev/synthetics/TypesafeConfig$SyntheticIterator
 	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM internalIterator Ljava/util/Iterator;
 	METHOD <init> (LWMWMMMWMWWNNNNMMWWMMMWMWM;Ljava/util/Iterator;)V
 		ARG 1 unused

@@ -1,3 +1,0 @@
-CLASS MMWWMMWWNNNNWMMWWWMMWWWWM SyntheticThreadLocal
-	COMMENT Compiler-generated.
-	METHOD initialValue initialValue ()Ljava/lang/Object;
