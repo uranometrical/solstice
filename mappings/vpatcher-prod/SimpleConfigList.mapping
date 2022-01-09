@@ -1,5 +1,0 @@
-CLASS WMWMMMWMWWNNNNMMWWMMMWMWM SimpleConfigList
-	METHOD MWMMWMWNNNNWWWWMMWMMWWMWW configListImmutableException (Ljava/lang/String;)Ljava/lang/UnsupportedOperationException;
-		ARG 0 method
-	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM shorthandImmutableException (Ljava/lang/String;)Ljava/lang/UnsupportedOperationException;
-		ARG 0 method

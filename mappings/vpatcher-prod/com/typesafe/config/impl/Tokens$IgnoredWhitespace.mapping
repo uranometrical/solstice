@@ -1,0 +1,5 @@
+CLASS WWMMMWMMWMWWWWWWMWMMMWMWW com/typesafe/config/impl/Tokens$IgnoredWhitespace
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM value Ljava/lang/String;
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/lang/String;)V
+		ARG 1 origin
+		ARG 2 s

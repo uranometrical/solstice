@@ -27,6 +27,8 @@ CLASS MWWMWMMWNNNNMMWWMWWMWWMMW com/typesafe/config/impl/ConfigImpl
 		ARG 0 object
 		ARG 1 origin
 		ARG 2 mapMode
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM getConfig (Ljava/lang/String;)LWMMWMWWMWWNNNNMMMWMWMWMMW;
+		ARG 0 simpleOrigin
 	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM parseResourcesAnySyntax (Ljava/lang/String;LWMMWWMWMWWMWMMWWMWWMWWMMM;)LMMWWMMMWMWWMWMWMWWWMWNNNN;
 		ARG 0 resourceBaseName
 		ARG 1 baseOptions

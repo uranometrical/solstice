@@ -1,0 +1,54 @@
+CLASS WMWMMMWMWWNNNNMMWWMMMWMWM com/typesafe/config/impl/SimpleConfigList
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM resolved Z
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM value Ljava/util/List;
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/util/List;)V
+		ARG 1 origin
+		ARG 2 value
+	METHOD <init> (LWWWWWMMWWMMWMWWMMMWMWMMWW;Ljava/util/List;LMWWWMWWMMWWMMMWMMMWMWWWWW;)V
+		ARG 1 origin
+		ARG 2 value
+		ARG 3 status
+	METHOD MWMMWMWNNNNWWWWMMWMMWWMWW configListImmutableException (Ljava/lang/String;)Ljava/lang/UnsupportedOperationException;
+		ARG 0 method
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM modifyMayThrow (LMWMMWMWWWWWMWWWMWWMWWMWMM;LMWWWMWWMMWWMMMWMMMWMWWWWW;)LWMWMMMWMWWNNNNMMWWMMMWMWM;
+		ARG 1 modifier
+		ARG 2 newResolveStatus
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM modify (LWWWWMMMWMMWWWMWWWMWWMWWMM;LMWWWMWWMMWWMMMWMMMWMWWWWW;)LWMWMMMWMWWNNNNMMWWMMMWMWM;
+		ARG 1 modifier
+		ARG 2 newResolveStatus
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM shorthandImmutableException (Ljava/lang/String;)Ljava/lang/UnsupportedOperationException;
+		ARG 0 method
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM wrapListIterator (Ljava/util/ListIterator;)Ljava/util/ListIterator;
+		ARG 0 i
+	METHOD addAll addAll (ILjava/util/Collection;)Z
+		ARG 1 i
+		ARG 2 c
+	METHOD addAll addAll (Ljava/util/Collection;)Z
+		ARG 1 c
+	METHOD clear clear ()V
+	METHOD contains contains (Ljava/lang/Object;)Z
+		ARG 1 o
+	METHOD containsAll containsAll (Ljava/util/Collection;)Z
+		ARG 1 c
+	METHOD indexOf indexOf (Ljava/lang/Object;)I
+		ARG 1 o
+	METHOD isEmpty isEmpty ()Z
+	METHOD iterator iterator ()Ljava/util/Iterator;
+	METHOD lastIndexOf lastIndexOf (Ljava/lang/Object;)I
+		ARG 1 o
+	METHOD listIterator listIterator ()Ljava/util/ListIterator;
+	METHOD listIterator listIterator (I)Ljava/util/ListIterator;
+		ARG 1 index
+	METHOD remove remove (Ljava/lang/Object;)Z
+		ARG 1 o
+	METHOD removeAll removeAll (Ljava/util/Collection;)Z
+		ARG 1 c
+	METHOD retainAll retainAll (Ljava/util/Collection;)Z
+		ARG 1 c
+	METHOD size size ()I
+	METHOD subList subList (II)Ljava/util/List;
+		ARG 1 fromIndex
+		ARG 2 toIndex
+	METHOD toArray toArray ()[Ljava/lang/Object;
+	METHOD toArray toArray ([Ljava/lang/Object;)[Ljava/lang/Object;
+		ARG 1 a

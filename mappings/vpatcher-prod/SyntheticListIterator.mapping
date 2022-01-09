@@ -1,0 +1,9 @@
+CLASS WMWNNNNWMWMWWWMWMMWWMWMWW SyntheticListIterator
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM instance Ljava/util/ListIterator;
+	METHOD <init> (Ljava/util/ListIterator;)V
+		ARG 1 instance
+	METHOD hasNext hasNext ()Z
+	METHOD hasPrevious hasPrevious ()Z
+	METHOD nextIndex nextIndex ()I
+	METHOD previousIndex previousIndex ()I
+	METHOD remove remove ()V
