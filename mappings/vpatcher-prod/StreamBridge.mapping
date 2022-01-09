@@ -1,0 +1,7 @@
+CLASS WWMWWWWWWWWMWMWMMWWMMWMMM StreamBridge
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW inputLock Ljava/lang/Object;
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM input Ljava/io/InputStream;
+	METHOD <init> (Ljava/io/OutputStream;)V
+		ARG 1 out
+	METHOD MWMMWMWNNNNWWWWMMWMMWWMWW getInput ()Ljava/io/InputStream;
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM getInputValue ()Ljava/io/InputStream;

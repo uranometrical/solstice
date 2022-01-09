@@ -1,0 +1,17 @@
+CLASS WWWMMWWWWNNNNWMWMWWNNNNWM org/apache/commons/compress/compressors/xz/XZCompressorInputStream
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM in Ljava/io/InputStream;
+	METHOD <init> (Ljava/io/InputStream;Z)V
+		ARG 1 inputStream
+		ARG 2 decompressConcatenated
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM matches ([BI)Z
+		ARG 0 signature
+		ARG 1 length
+	METHOD available available ()I
+	METHOD close close ()V
+	METHOD read read ()I
+	METHOD read read ([BII)I
+		ARG 1 buf
+		ARG 2 off
+		ARG 3 len
+	METHOD skip skip (J)J
+		ARG 1 n
