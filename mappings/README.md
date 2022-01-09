@@ -7,3 +7,5 @@ Classes with proper packages indicate that a class is fully or mostly completely
 
 Currently known packaged libraries:
 * https://github.com/lightbend/config/
+* https://github.com/apache/commons-compress (Likely)
+* https://github.com/google/gson (Likely)
