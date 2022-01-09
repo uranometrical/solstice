@@ -1,0 +1,10 @@
+CLASS WMWMWWMWMWMWMWWWMMMWWMMWW OptiFinePatchResolver
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM $assertionsDisabled Z
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW resolvedOptiFinepatches Ljava/util/Map;
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM resourceClassLoaderOF Ljava/lang/ClassLoader;
+	METHOD <init> (Ljava/lang/ClassLoader;)V
+		ARG 1 resourceClassLoaderOF
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM resolveOptiFinePatches ()V
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM applyXDeltaPatch (Ljava/lang/String;Ljava/io/InputStream;)Ljava/io/InputStream;
+		ARG 1 file
+		ARG 2 fileStream

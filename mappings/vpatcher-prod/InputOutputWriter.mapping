@@ -1,0 +1,6 @@
+CLASS WWMWMWWWWWWMMWNNNNWMWWMWW InputOutputWriter
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM getInputBytes (Ljava/io/InputStream;)[B
+		ARG 0 input
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM writeOutput (Ljava/io/InputStream;Ljava/io/OutputStream;)J
+		ARG 0 input
+		ARG 1 output

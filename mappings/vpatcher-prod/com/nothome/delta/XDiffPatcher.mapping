@@ -1,0 +1,16 @@
+CLASS MMMWMWMMWMWWMWWMWWWWMWWMW com/nothome/delta/XDiffPatcher
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW buf2 [B
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM buf Ljava/nio/ByteBuffer;
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM append (ILjava/io/InputStream;Ljava/io/OutputStream;)V
+		ARG 1 length
+		ARG 2 patch
+		ARG 3 output
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM copy (JILWWWWMWWWMWMWWWWMWMMWMMWMM;Ljava/io/OutputStream;)V
+		ARG 1 offset
+		ARG 3 length
+		ARG 4 source
+		ARG 5 output
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM patch (LWWWWMWWWMWMWWWWMWMMWMMWMM;Ljava/io/InputStream;Ljava/io/OutputStream;)V
+		ARG 1 source
+		ARG 2 patch
+		ARG 3 out

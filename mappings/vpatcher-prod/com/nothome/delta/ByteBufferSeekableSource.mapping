@@ -1,0 +1,8 @@
+CLASS MMWWWWMWWMMWWNNNNMWWWMMWM com/nothome/delta/ByteBufferSeekableSource
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW cur Ljava/nio/ByteBuffer;
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM bb Ljava/nio/ByteBuffer;
+	METHOD <init> (Ljava/nio/ByteBuffer;)V
+		ARG 1 bb
+	METHOD <init> ([B)V
+		ARG 1 source
+	METHOD close close ()V
