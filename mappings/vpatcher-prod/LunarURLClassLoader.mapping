@@ -1,2 +1,15 @@
 CLASS WWWWWNNNNWMWNNNNWNNNNMMWW LunarURLClassLoader
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM baseClassLoader Ljava/lang/ClassLoader;
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW deltaPatcher LWMWMWWMWMWMWMWWWMMMWWMMWW;
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM versionData LWMMWMWMMWMWWMWMWWWWWWWMMM;
+	METHOD <init> (LWMMWMWMMWMWWMWMWWWWWWWMMM;[Ljava/net/URL;Ljava/lang/ClassLoader;)V
+		ARG 1 versionData
+		ARG 2 urls
+		ARG 3 baseClassLoader
 	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM getPreloadedClassesCount ()I
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM validOutsidePackage (Ljava/lang/String;)Z
+		ARG 0 qualifiedClassName
+	METHOD findClass findClass (Ljava/lang/String;)Ljava/lang/Class;
+		ARG 1 qualifiedClassName
+	METHOD getResourceAsStream getResourceAsStream (Ljava/lang/String;)Ljava/io/InputStream;
+		ARG 1 resource

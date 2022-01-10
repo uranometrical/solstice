@@ -1,5 +1,10 @@
 CLASS WMMWMWMMWMWWMWMWWWWWWWMMM ContextualizedVersionData
 	FIELD MMWWWMMWMMWWWMMWNNNNMWMWW messageDigestInstance Ljava/security/MessageDigest;
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM whatisthismapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa Ljava/util/Map;
 	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM versionData LMWWMWWMWMMMWWMMWWWMWNNNNM;
 	METHOD <init> (LMWWMWWMWMMMWWMMWWWMWNNNNM;)V
 		ARG 1 version
+	METHOD MWMMWMMWNNNNMWMWNNNNWMWMM whatisthismethodaaaaaaaaa (Ljava/util/List;)V
+		ARG 1 stack
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM resourceToLines (Ljava/io/InputStream;)Ljava/util/List;
+		ARG 0 resourceInput
