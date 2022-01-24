@@ -1,0 +1,8 @@
+CLASS MWMMWMMMWWWWMMWMWMMMWMWWW Offset
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM readOffset (Ljava/io/InputStream;)I
+		ARG 0 in
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM read (Ljava/io/InputStream;[BII)V
+		ARG 0 in
+		ARG 1 dest
+		ARG 2 off
+		ARG 3 len

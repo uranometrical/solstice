@@ -10,3 +10,4 @@ Currently known packaged libraries:
 * https://github.com/apache/commons-compress (Likely)
 * https://github.com/google/gson (Likely)
 * https://github.com/mantlik/xdeltaencoder/tree/master/src/main/java/com/nothome/delta
+* https://github.com/malensek/jbsdiff

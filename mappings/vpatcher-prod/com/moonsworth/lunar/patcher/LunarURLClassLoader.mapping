@@ -1,4 +1,4 @@
-CLASS WWWWWNNNNWMWNNNNWNNNNMMWW LunarURLClassLoader
+CLASS WWWWWNNNNWMWNNNNWNNNNMMWW com/moonsworth/lunar/patcher/LunarURLClassLoader
 	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM baseClassLoader Ljava/lang/ClassLoader;
 	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW deltaPatcher LWMWMWWMWMWMWMWWWMMMWWMMWW;
 	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM versionData LWMMWMWMMWMWWMWMWWWWWWWMMM;
@@ -7,7 +7,7 @@ CLASS WWWWWNNNNWMWNNNNWNNNNMMWW LunarURLClassLoader
 		ARG 2 urls
 		ARG 3 baseClassLoader
 	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM getPreloadedClassesCount ()I
-	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM validOutsidePackage (Ljava/lang/String;)Z
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM validThirdPartyPackage (Ljava/lang/String;)Z
 		ARG 0 qualifiedClassName
 	METHOD findClass findClass (Ljava/lang/String;)Ljava/lang/Class;
 		ARG 1 qualifiedClassName
