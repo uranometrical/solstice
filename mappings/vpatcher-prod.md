@@ -1,4 +1,4 @@
-# vpatcher-prod
+# vpatcher-prod (Status: core classes, remapped, libraries partially mapped)
 `vpatcher-prod` is the program Lunar Client uses for handling the processing of their `.lclass` `.class` obfuscations, applying XDelta OptiFine patches, file hash validations, and more.
 
 ## Resources
