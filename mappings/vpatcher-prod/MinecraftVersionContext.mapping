@@ -1,0 +1,23 @@
+CLASS WMMWMWMMWMWWMWMWWWWWWWMMM MinecraftVersionContext
+	FIELD MMWWWMMWMMWWWMMWNNNNMWMWW md5Digester Ljava/security/MessageDigest;
+	FIELD MWMMWMMWNNNNMWMWNNNNWMWMM mappingsMap Ljava/util/Map;
+	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW patchsMap Ljava/util/Map;
+	FIELD WWMWMWWMWWMMWMWMWWMWMWMMW hashesMap Ljava/util/Map;
+	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM minecraftVersion LMWWMWWMWMMMWWMMWWWMWNNNNM;
+	METHOD <init> (LMWWMWWMWMMMWWMMWWWMWNNNNM;)V
+		ARG 1 version
+	METHOD MWMMWMMWNNNNMWMWNNNNWMWMM registerMappings (Ljava/util/List;)V
+		ARG 1 mappings
+	METHOD MWMMWMWNNNNWWWWMMWMMWWMWW registerHashes (Ljava/util/List;)V
+		ARG 1 hashes
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM resourceToLines (Ljava/io/InputStream;)Ljava/util/List;
+		ARG 0 resourceInput
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM doPatch (Ljava/lang/String;[B)Ljava/util/Optional;
+		ARG 1 patch
+		ARG 2 old
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM verifyHash (Ljava/lang/String;[BZ)Z
+		ARG 1 clazz
+		ARG 2 hash
+		ARG 3 throwOnUnexpected
+	METHOD WWWWWNNNNWMWWWMWWMMMWMMWM registerPatches (Ljava/util/List;)V
+		ARG 1 patches

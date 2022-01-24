@@ -1,4 +1,4 @@
-CLASS WMWMWWMWMWMWMWWWMMMWWMMWW OptiFinePatchResolver
+CLASS WMWMWWMWMWMWMWWWMMMWWMMWW com/moonsworth/lunar/patcher/OptiFinePatchResolver
 	FIELD MWMMWMWNNNNWWWWMMWMMWWMWW resolvedOptiFinePatches Ljava/util/Map;
 	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM resourceClassLoaderOF Ljava/lang/ClassLoader;
 	METHOD <init> (Ljava/lang/ClassLoader;)V

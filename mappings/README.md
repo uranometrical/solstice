@@ -1,9 +1,9 @@
+Classes with proper packages indicate that a class is fully or mostly completely deobfuscated.
+
 # vpatcher-prod Resources
 Lunar packed existing libraries into this `.jar` and obfuscated them.
 
-If anyone would like to contribute to actual package reorganization, please feel free to.
-
-Classes with proper packages indicate that a class is fully or mostly completely deobfuscated.
+I currently have no intention of mapping classes from the various packaged libraries. If someone would like to PR these contributions, feel free - because I am not doing them myself.
 
 Currently known packaged libraries:
 * https://github.com/lightbend/config/
