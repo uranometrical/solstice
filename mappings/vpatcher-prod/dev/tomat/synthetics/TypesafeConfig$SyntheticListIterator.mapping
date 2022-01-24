@@ -1,4 +1,4 @@
-CLASS WMWNNNNWMWMWWWMWMMWWMWMWW tomat/dev/synthetics/TypesafeConfig$SyntheticListIterator
+CLASS WMWNNNNWMWMWWWMWMMWWMWMWW dev/tomat/synthetics/TypesafeConfig$SyntheticListIterator
 	FIELD WWWWWNNNNWMWWWMWWMMMWMMWM instance Ljava/util/ListIterator;
 	METHOD <init> (Ljava/util/ListIterator;)V
 		ARG 1 instance

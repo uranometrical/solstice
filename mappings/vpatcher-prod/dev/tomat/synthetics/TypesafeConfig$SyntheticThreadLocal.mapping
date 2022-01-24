@@ -1,0 +1,3 @@
+CLASS MMWWMMWWNNNNWMMWWWMMWWWWM dev/tomat/synthetics/TypesafeConfig$SyntheticThreadLocal
+	COMMENT Compiler-generated.
+	METHOD initialValue initialValue ()Ljava/lang/Object;
